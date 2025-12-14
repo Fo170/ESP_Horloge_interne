@@ -43,7 +43,11 @@ Poussé sur : https://github.com/Fo170/ESP_Horloge_interne
 
 ## Licence
 
-MIT — modifiez selon votre choix.
+GNU General Public License v3.0
+
+Ce projet est distribué sous la GNU General Public License version 3 (GPLv3).
+Vous pouvez consulter le texte complet de la licence dans le fichier `LICENSE` à la racine du dépôt
+ou en ligne : https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ---
 
