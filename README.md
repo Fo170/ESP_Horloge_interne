@@ -1,6 +1,7 @@
 # ESP_Horloge_interne
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![PlatformIO CI](https://github.com/Fo170/ESP_Horloge_interne/actions/workflows/platformio.yml/badge.svg)](https://github.com/Fo170/ESP_Horloge_interne/actions)
 
 Projet PlatformIO pour une horloge interne basée sur ESP (ESP32/ESP8266).
 
